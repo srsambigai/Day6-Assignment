@@ -23,7 +23,7 @@ ratingarr.push(movieobj4);
 var movieobj5=new Movie('Casino Royale5','Eon Productions5');
 ratingarr.push(movieobj5);
 
-//Declaring array to receive movie name with PG rating
+//Declaring array to receive movie name with PG rating.
 var moviearray=[];
 
 //Defining function getPG to find and return the movie names with PG rating.
